@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login Page</string>
+    <string name="your_encrypted_text_here">Your Encrypted Text Here :</string>
+    <string name="encrypter">Encrypter</string>
+    <string name="copy">Copy</string>
+    <string name="encrypt">Encrypt</string>
+</resources>
